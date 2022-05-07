@@ -1,4 +1,4 @@
-package loops_e_arryas;
+package loops;
 
 import java.util.Scanner;
 
