@@ -1,8 +1,8 @@
-package loops2;
+package particular;
 
 import java.util.Scanner;
 
-public class Ex1 {
+public class Ex1_ConversorTemperatura {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double c, k, re, ra, fa;

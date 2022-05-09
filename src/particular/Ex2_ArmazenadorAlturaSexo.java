@@ -1,8 +1,8 @@
-package loops2;
+package particular;
 
 import java.util.Scanner;
 
-public class Ex2 {
+public class Ex2_ArmazenadorAlturaSexo {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         float altura = 0, maior = 0, menor= 10, somah = 0, somam=0;
