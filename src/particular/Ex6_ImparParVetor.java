@@ -39,16 +39,12 @@ public class Ex6_ImparParVetor {
                 }
             }
         }
-        /*
-        for (int i = 0; i < par.length;i++)
-            if (par[i] == 0){
-                par[i] = Integer.parseInt(".");
-            }*/ //TENTATIVA DE REMOVER O ZERO
         System.out.println("\nNumero impares");
         for (int numero  : impar ) {
             if (numero != 0)
             System.out.print(numero + " ");
-        }System.out.println("\nNumero pares");
+        }
+        System.out.println("\nNumero pares");
         for (int numero  : par ) {
             if (numero != 0)
             System.out.print(numero + " ");
