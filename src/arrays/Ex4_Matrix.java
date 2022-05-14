@@ -11,7 +11,7 @@ public class Ex4_Matrix {
                  //menor =m[i][j];
             }
         }
-        System.out.println("Matris: ");
+        System.out.println("Matrix: ");
         for ( int []linha:m  ) {
             for (  int coluna:linha  ) {
 
