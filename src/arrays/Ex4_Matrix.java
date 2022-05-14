@@ -14,7 +14,8 @@ public class Ex4_Matrix {
         System.out.println("Matris: ");
         for ( int []linha:m  ) {
             for (  int coluna:linha  ) {
-                System.out.print(coluna);
+
+                System.out.print("["+coluna+"]");
             }
             System.out.println();
         }
