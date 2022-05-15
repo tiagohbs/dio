@@ -21,9 +21,5 @@ public class Ex4_ParImpar {
         } while (count < max); // limitador de ciclos
         System.out.println("Impares: "+ impar);
         System.out.println("Pares: "  + par);
-
-
-
-
     }
 }
