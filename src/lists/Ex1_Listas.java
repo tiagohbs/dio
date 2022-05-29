@@ -54,7 +54,7 @@ public class Ex1_Listas {
         System.out.println("Apague toda a lista");
         notas.clear();
         System.out.println(notas);
-        System.out.println("Verificar se esta vazia: "+notas.isEmpty());
+        System.out.println("Verificar se a lista esta vazia: "+notas.isEmpty());
 
     }
 }
